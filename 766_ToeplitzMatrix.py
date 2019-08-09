@@ -52,8 +52,7 @@ class Solution(object):
         higher = n - 1
 
         for i in range(lower,higher):
-            print(np.diag(npMatrix,i))
-            s = set(np.diag(npMatrix,i))
+            s = set(np.diag(npMatrix,))
             if len(s) > 1:
                 return False
 
