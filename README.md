@@ -1,52 +1,52 @@
 # Leet Code Problems
 
-- 1. TwoSum.py	
-- 7. ReverseInteger.py	
-- 9. PalindromeNumber.py	
-- 27. RemoveElement.py	
-- 58. LengthOfLastWord.py	
-- 66. PlusOne.py	
-- 67. AddBinary.py	
-- 69. Sqrtx	
-- 136. SingleNumber.py	
-- 169. MajorityElement.py	
-- 172. FactorialTrailingZeroes.py	
-- 175. CombineTwoTables.sql	
-- 182. DuplicateEmails.sql	
-- 183. CustomersWhoNeverOrder.sql	
-- 184. DepartmentHighestSalary.sql	
-- 202. HappyNumber.py	
-- 231. PowerOfTwo.py	
-- 242. ValidAnagram.py	
-- 258. AddDigits.py	
-- 268. MissingNumber.py	
-- 283. MoveZeroes.py	
-- 287. FindTheDuplicateNumer.py	
-- 344. ReverseString.py	
-- 345. ReverseVowels.py	
-- 367. ValidPerfectSquare.py	
-- 383. RansomNote.py	
-- 389. FindTheDifference.py	
-- 412. FizzBuzz.py	
-- 434. NumberOfSegmentsInAString.py	
-- 448. FindAllNumbersDisappearedInAnArray.py	
-- 485. MaxConsecutiveOnes.py	
-- 500. KeyboardRow.py	
-- 507. PerfectNumber.py	
-- 509. FibonacciNumber.py	
-- 520. DetectCapital.py	
-- 595. BigCountries.sql	
-- 596. ClassesMoreThan5Students.sql	
-- 620. NotBoringMovies.sql	
-- 705. DesignHashSet.py	
-- 709. ToLowerCase.py	
-- 728. SelfDividingNumbers.py	
-- 766. ToeplitzMatrix.py	
-- 771. JewelsAndStones.py	
-- 852. PeakIndexInAMountainArray.py	
-- 884. UncommonWordsFromTwoSentences.py	
-- 905. SortArrayByParity.py	
-- 929. UniqueEmailAddresses.py	
-- 977. SquaresOfASortedArray.py	
-- 1046. LastStoneWeight.py	
-- 1108. DefangingAnIPAddress.py	
+1. TwoSum.py	
+7. ReverseInteger.py	
+9. PalindromeNumber.py	
+27. RemoveElement.py	
+58. LengthOfLastWord.py	
+66. PlusOne.py	
+67. AddBinary.py	
+69. Sqrtx	
+136. SingleNumber.py	
+169. MajorityElement.py	
+172. FactorialTrailingZeroes.py	
+175. CombineTwoTables.sql	
+182. DuplicateEmails.sql	
+183. CustomersWhoNeverOrder.sql	
+184. DepartmentHighestSalary.sql	
+202. HappyNumber.py	
+231. PowerOfTwo.py	
+242. ValidAnagram.py	
+258. AddDigits.py	
+268. MissingNumber.py	
+283. MoveZeroes.py	
+287. FindTheDuplicateNumer.py	
+344. ReverseString.py	
+345. ReverseVowels.py	
+367. ValidPerfectSquare.py	
+383. RansomNote.py	
+389. FindTheDifference.py	
+412. FizzBuzz.py	
+434. NumberOfSegmentsInAString.py	
+448. FindAllNumbersDisappearedInAnArray.py	
+485. MaxConsecutiveOnes.py	
+500. KeyboardRow.py	
+507. PerfectNumber.py	
+509. FibonacciNumber.py	
+520. DetectCapital.py	
+595. BigCountries.sql	
+596. ClassesMoreThan5Students.sql	
+620. NotBoringMovies.sql	
+705. DesignHashSet.py	
+709. ToLowerCase.py	
+728. SelfDividingNumbers.py	
+766. ToeplitzMatrix.py	
+771. JewelsAndStones.py	
+852. PeakIndexInAMountainArray.py	
+884. UncommonWordsFromTwoSentences.py	
+905. SortArrayByParity.py	
+929. UniqueEmailAddresses.py	
+977. SquaresOfASortedArray.py	
+1046. LastStoneWeight.py	
+1108. DefangingAnIPAddress.py	
